@@ -177,6 +177,13 @@ print(output)
 
 ---
 
+## 🤗 Hugging Face Links
+
+**Dataset:** https://huggingface.co/datasets/rjavi1/smolified-krishibooking-ai
+
+**Model:** https://huggingface.co/rjavi1/smolified-krishibooking-ai
+
+
 ## 👤 About
 
 Built at the **ML Kolkata Hackathon — March 29, 2026**
